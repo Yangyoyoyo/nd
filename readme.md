@@ -68,9 +68,9 @@ LIMIT 5,8 从五开始要 8个
 第二页 20,20
 (n-1)*20, 20
   
-子句之间的顺序
-WHERE GROUP ORDER LIMIT
-筛选   合并  排序   限制 
+子句之间的顺序 
+SET  WHERE GROUP ORDER LIMIT
+设置  筛选  合并  排序   限制 
    
 数据字典
 
